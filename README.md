@@ -44,7 +44,7 @@
   
   
 
-<h2 align="center">🔭 skills</h2>
+<h2 align="center">🔭 Skills</h2>
  <p align="center">Codewars</p>  
 <p align="center">
   <img src="https://www.codewars.com/users/vndlsm/badges/small" alt="https://www.codewars.com/users/vndlsm" />
