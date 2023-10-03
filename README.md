@@ -5,7 +5,7 @@
 
 <h2 align="center"> 👨‍💻 about~me</h2>
 <p align="center">
-  <samp>I am a beginner in programming with just over a year of experience, primarily focused on web development and actively learning in the areas of web development and IT. I am 16 years old and mainly studying JavaScript and React. While I am not a professional, I am eager to continue developing my skills and knowledge in this field.
+  <samp>I am a beginner in programming with just over a year of experience, primarily focused on web development and actively learning in the areas of web development and IT. I am 17 years old and mainly studying JavaScript and React. While I am not a professional, I am eager to continue developing my skills and knowledge in this field.
   </samp>
 </p>
 
