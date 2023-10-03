@@ -18,7 +18,6 @@
 
 <p align="center">
   <a href="mailto:vndljs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/vnd1sm"><img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/twilighted"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/vandal1sm"><img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
