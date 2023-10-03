@@ -78,10 +78,10 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=vandal1sm&hide_border=true&theme=nightowl" />
+        <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=setunicode&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="140px" src="https://github-readme-stats.vercel.app/api?username=vandal1sm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+        <img height="140px" src="https://github-readme-stats.vercel.app/api?username=setunicode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
 </details>
 
